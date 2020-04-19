@@ -1,0 +1,13 @@
+html, body {
+  scroll-behavior: smooth;
+}
+
+#header .fixedmenu {
+    min-height: 100px;
+}
+
+
+
+.shop-header {
+    background: url(/assets/images/background_products.jpeg) no-repeat;
+}
