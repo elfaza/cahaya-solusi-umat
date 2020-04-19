@@ -6,6 +6,7 @@ import Footer from './components/Layout/Footer';
 import { Router, Switch, Route } from 'react-router-dom';
 import history from './history';
 import Product from './components/Product';
+import ProductDetail from './components/Product/product-detail';
 
 class App extends React.Component {
 
@@ -22,6 +23,7 @@ class App extends React.Component {
           <Switch>
             <Route exact path="/" component={LandingPage} />
             <Route exact path="/products" component={Product} />
+            <Route exact path="/product-detail" component={ProductDetail} />
           </Switch>
         </Router>
         <Footer />
