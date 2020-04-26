@@ -36,9 +36,6 @@ class Product extends React.Component {
                                 <h2 class="heading bottom30 darkcolor font-light2">Our <span class="font-normal">Products</span>
                                     <span class="divider-center"></span>
                                 </h2>
-                                <div class="col-md-8 offset-md-2 heading_space">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolores explicabo laudantium, omnis provident quam reiciendis voluptatum?</p>
-                                </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
                                 <div class="shopping-box bottom30">

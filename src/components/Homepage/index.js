@@ -164,7 +164,17 @@ class LandingPage extends React.Component {
                                 <div className="heading-title mb-4">
                                     <h2 className="darkcolor font-normal bottom30">About Us</h2>
                                 </div>
-                                <p className="bottom35">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, lobortis id interdum vitae, interdum eget elit. Curabitur quis urna nulla. Suspendisse potenti. Duis suscipit ultrices maximus. </p>
+                                <p className="bottom35">
+                                    As an Idealism, CSU will manufactures different household cleaning
+                                    solutions. To deliver and to bring warranty to our products ,
+                                    We follow the process thoroughly and keeping an update to the latest
+                                    Technology Development and any authority requirement.
+                                </p>
+                                <p className="bottom35">
+                                    We also engange in several community involvement , to provide
+                                    and promote Clean, Hygiene and sustainable environment
+                                    to a wider audience. Especially in the recent state.
+                                </p>
                                 <a href="#our-team" className="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">Learn More</a>
                             </div>
                             <div className="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
@@ -224,9 +234,6 @@ class LandingPage extends React.Component {
                                 <div class="heading-title bottom30 darkcolor wow fadeInUp" data-wow-delay="300ms">
                                     <span class="defaultcolor">Explore </span>
                                     <h2 class="font-normal darkcolor"> Our Gallery </h2>
-                                </div>
-                                <div class="col-md-8 offset-md-2 heading_space">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolores explicabo laudantium, omnis provident quam reiciendis voluptatum?</p>
                                 </div>
                             </div>
                             <div class="col-lg-12">
