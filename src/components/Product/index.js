@@ -22,7 +22,7 @@ class Product extends React.Component {
                                     <h3 class="float-left">Products</h3>
                                     <ul class="breadcrumb top10 bottom10 float-right">
                                         <li class="breadcrumb-item hover-light"><a href="/">Home</a></li>
-                                        <li class="breadcrumb-item hover-light">Shop</li>
+                                        <li class="breadcrumb-item hover-light">Our Products</li>
                                     </ul>
                                 </div>
                             </div>
@@ -58,7 +58,7 @@ class Product extends React.Component {
                                         <img src="/assets/images/products/DSC_6558.jpg" alt="shop" />
                                     </div>
                                     <div class="shop-content text-center">
-                                        <h4 class="darkcolor"><a href="/product-detail" >Hand Sanitizer 100ml Cair Spray</a></h4>
+                                        <h4 class="darkcolor"><a>Hand Sanitizer 100ml Cair Spray</a></h4>
                                         <p></p>
                                         <h4 class="price-product">IDR 23.000,00</h4>
                                     </div>

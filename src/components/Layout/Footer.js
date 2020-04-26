@@ -14,14 +14,14 @@ class Footer extends React.Component {
                                 <div className="d-table w-100 address-item whitecolor bottom25">
                                     <span className="d-table-cell align-middle"><i className="fas fa-mobile-alt"></i></span>
                                     <p className="d-table-cell align-middle bottom0">
-                                        +01 - 123 - 4567 <a className="d-block" href="mailto:web@support.com">web@support.com</a>
+                                        +62 857-1959-3421 <a className="d-block" href="mailto:cahayasolusiumat@gmail.com">cahayasolusiumat@gmail.com</a>
                                     </p>
                                 </div>
                                 <ul className="social-icons white wow fadeInUp" data-wow-delay="300ms">
                                     <li><a href="#" className="facebook"><i className="fab fa-facebook-f"></i> </a> </li>
                                     <li><a href="#" className="twitter"><i className="fab fa-twitter"></i> </a> </li>
                                     <li><a href="#" className="linkedin"><i className="fab fa-linkedin-in"></i> </a> </li>
-                                    <li><a href="#" className="insta"><i className="fab fa-instagram"></i> </a> </li>
+                                    <li><a href="https://www.instagram.com/yukbersih/" target="_blank" className="insta"><i className="fab fa-instagram"></i> </a> </li>
                                 </ul>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ class Footer extends React.Component {
                                 <h3 className="whitecolor bottom25">Business hours</h3>
                                 <p className="whitecolor bottom25">Our support available to help you 24 hours a day, seven days week</p>
                                 <ul className="hours_links whitecolor">
-                                    <li><span>Monday-Saturday:</span> <span>8.00-18.00</span></li>
+                                    <li><span>Monday-Saturday:</span> <span>08.00-18.00</span></li>
                                     <li><span>Friday:</span> <span>09:00-21:00</span></li>
                                     <li><span>Sunday:</span> <span>09:00-20:00</span></li>
                                 </ul>

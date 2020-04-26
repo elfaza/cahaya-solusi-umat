@@ -18,7 +18,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">The Ultimate</h1>
+                                        <h1 className="text-capitalize font-xlight whitecolor text-center">A Clean hand is</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -27,25 +27,16 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-bold whitecolor text-center">Creative Business</h1>
+                                        <h1 className="text-capitalize font-bold whitecolor text-center">A Caring hand</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                         data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
-                                        data-width="none" data-height="none" data-type="text"
-                                        data-textalign="['center','center','center','center']"
-                                        data-responsive_offset="on" data-start="1500"
-                                        data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">In Market</h1>
-                                    </div>
-                                    <div className="tp-caption tp-resizeme"
-                                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                        data-y="['middle','middle','middle','middle']" data-voffset="['40','40','60','90']"
                                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="2000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h4 className="whitecolor font-xlight text-center">The Best Multipurpose Multi Page Template in Market</h4>
+                                        <h4 className="whitecolor font-xlight text-center">Keep Your Hands Clean</h4>
                                     </div>
                                 </li>
                                 <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
@@ -57,7 +48,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Let's Create</h1>
+                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Happiness is</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -66,7 +57,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-bold whitecolor text-center">Deep Creativity</h1>
+                                        <h1 className="text-capitalize font-bold whitecolor text-center">A Freshly</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -75,7 +66,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1500"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">In Market</h1>
+                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Cleaned House</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -84,7 +75,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="2000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h4 className="whitecolor font-xlight text-center">Responsive and Retina Ready for All Devices</h4>
+                                        <h4 className="whitecolor font-xlight text-center">Love Your Home Again</h4>
                                     </div>
                                 </li>
                                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
@@ -96,7 +87,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">We Make</h1>
+                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Protecy Your </h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -105,7 +96,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-bold whitecolor text-center">Inspired Design</h1>
+                                        <h1 className="text-capitalize font-bold whitecolor text-center">Hands With</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -114,7 +105,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="1500"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Our Trax</h1>
+                                        <h1 className="text-capitalize font-xlight whitecolor text-center">Hands Sanitizer</h1>
                                     </div>
                                     <div className="tp-caption tp-resizeme"
                                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -123,7 +114,7 @@ class LandingPage extends React.Component {
                                         data-textalign="['center','center','center','center']"
                                         data-responsive_offset="on" data-start="2000"
                                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                                        <h4 className="whitecolor font-xlight text-center">Is a New Design Studio founded in NewYork</h4>
+                                        <h4 className="whitecolor font-xlight text-center">Rub Your Hand with Few Drops of It</h4>
                                     </div>
                                 </li>
                             </ul>
@@ -133,7 +124,7 @@ class LandingPage extends React.Component {
                         <li className="d-table"><a href="#"><i className="fab fa-facebook-f"></i></a> </li>
                         <li className="d-table"><a href="#"><i className="fab fa-twitter"></i> </a> </li>
                         <li className="d-table"><a href="#"><i className="fab fa-linkedin-in"></i> </a> </li>
-                        <li className="d-table"><a href="#"><i className="fab fa-instagram"></i> </a> </li>
+                        <li className="d-table"><a href="https://www.instagram.com/yukbersih/" target="_blank"><i className="fab fa-instagram"></i> </a> </li>
                     </ul>
                     <div className="container">
                         <div className="row">
@@ -177,7 +168,7 @@ class LandingPage extends React.Component {
                                 <a href="#our-team" className="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">Learn More</a>
                             </div>
                             <div className="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                                <div className="image"><img alt="SEO" src="/assets/images/single-product.png" /></div>
+                                <div className="image"><img alt="SEO" src="/assets/images/trax/awesome-feature.png" /></div>
                             </div>
                         </div>
                     </div>
@@ -224,6 +215,131 @@ class LandingPage extends React.Component {
                         </div>
                     </div>
                 </section>
+
+
+                <section id="gallery-product" class="position-relative padding">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-center wow fadeIn" data-wow-delay="300ms">
+                                <div class="heading-title bottom30 darkcolor wow fadeInUp" data-wow-delay="300ms">
+                                    <span class="defaultcolor">Explore </span>
+                                    <h2 class="font-normal darkcolor"> Our Gallery </h2>
+                                </div>
+                                <div class="col-md-8 offset-md-2 heading_space">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolores explicabo laudantium, omnis provident quam reiciendis voluptatum?</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div id="mosaic-filter" class="cbp-l-filters bottom30 wow fadeIn text-center" data-wow-delay="350ms">
+                                    <div data-filter="*" class="cbp-filter-item">
+                                        <span>All</span>
+                                    </div>
+                                    <div data-filter=".hs" class="cbp-filter-item">
+                                        <span>Hand Sanitizer</span>
+                                    </div>
+                                    <div data-filter=".disinfectant" class="cbp-filter-item">
+                                        <span>Disinfectant</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div id="grid-mosaic" class="cbp cbp-l-grid-mosaic-flat">
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/1_L_1.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/1_L_1.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Hand Sanitizer 1 L</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/flip_top_60_ml_6.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/flip_top_60_ml_6.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Flip Top 60 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item disinfectant">
+                                        <img src="/assets/images/galleries/spray_disinfectant_100_ml_7.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/spray_disinfectant_100_ml_7.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Spray Disinfectant 100 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item disinfectant">
+                                        <img src="/assets/images/galleries/dis1nfectant_500_ml_4.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/dis1nfectant_500_ml_4.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Spray Disinfectant 500 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs disinfectant">
+                                        <img src="/assets/images/galleries/brother_spray_1.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/brother_spray_1.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Spray Hand Sanitizer and Disinfectant 100 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/pipih_100_ml_5.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/pipih_100_ml_5.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Pipih 100 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/hs_1.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/hs_1.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Hand Sanitizer 1L and 5L</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/press_top_60_ml_1.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/press_top_60_ml_1.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Press Top 60 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item hs">
+                                        <img src="/assets/images/galleries/pump_500_ml.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/pump_500_ml.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Pump 500 ml</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cbp-item disinfectant">
+                                        <img src="/assets/images/galleries/disenfectan_2.jpeg" alt="" />
+                                        <div class="gallery-hvr whitecolor">
+                                            <div class="center-box">
+                                                <a href="/assets/images/galleries/disenfectan_2.jpeg" class="opens" data-fancybox="gallery" title="Zoom In"> <i class="fa fa-search-plus"></i></a>
+                                                <h4 class="w-100">Disinfectant 1L and 5L</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
                 <section id="contact-us" className="bglight position-relative padding noshadow">
                     <div className="container whitebox">
                         <div className="widget py-5">
