@@ -204,7 +204,7 @@ class LandingPage extends React.Component {
                                 <li className="whitecolor wow fadeIn" data-wow-delay="500ms">
                                     <span className="pro-step bottom20">02</span>
                                     <p className="fontbold bottom25">Pouring</p>
-                                    <p className="mt-n2 mt-sm-0">Pour the mixture into the bottle or jerigen.</p>
+                                    <p className="mt-n2 mt-sm-0">Pour the mixture into the bottle or dirigen.</p>
                                 </li>
                                 <li className="whitecolor wow fadeIn" data-wow-delay="600ms">
                                     <span className="pro-step bottom20">03</span>
@@ -214,7 +214,7 @@ class LandingPage extends React.Component {
                                 <li className="whitecolor wow fadeIn" data-wow-delay="700ms">
                                     <span className="pro-step bottom20">04</span>
                                     <p className="fontbold bottom25">Sticking</p>
-                                    <p className="mt-n2 mt-sm-0">Sticking the sticker to the bottle or jerigen.</p>
+                                    <p className="mt-n2 mt-sm-0">Sticking the sticker to the bottle or dirigen.</p>
                                 </li>
                                 <li className="whitecolor wow fadeIn" data-wow-delay="800ms">
                                     <span className="pro-step bottom20">05</span>

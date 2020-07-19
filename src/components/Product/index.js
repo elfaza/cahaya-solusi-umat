@@ -45,7 +45,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a >Hand Sanitizer 100ml Cair Fliptop</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 23.000,00</h4>
+                                        <h4 class="price-product">IDR 19.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a>Hand Sanitizer 100ml Cair Spray</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 23.000,00</h4>
+                                        <h4 class="price-product">IDR 19.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a >Hand Sanitizer 60ml Gel</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 15.000,00</h4>
+                                        <h4 class="price-product">IDR 12.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -79,9 +79,9 @@ class Product extends React.Component {
                                         <img src="/assets/images/products/DSC_6586.jpg" alt="shop" />
                                     </div>
                                     <div class="shop-content text-center">
-                                        <h4 class="darkcolor"><a >Hand Sanitizer 4lt</a></h4>
+                                        <h4 class="darkcolor"><a >Hand Sanitizer 5lt</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 485.000,00</h4>
+                                        <h4 class="price-product">IDR 175.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a >Disinfectant 1lt</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 100.000,00</h4>
+                                        <h4 class="price-product">IDR 80.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a >Disinfectant 100ml Cair Spray</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 35.000,00</h4>
+                                        <h4 class="price-product">IDR 25.000,00</h4>
                                     </div>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ class Product extends React.Component {
                                     <div class="shop-content text-center">
                                         <h4 class="darkcolor"><a >Disinfectant 1lt</a></h4>
                                         <p></p>
-                                        <h4 class="price-product">IDR 100.000,00</h4>
+                                        <h4 class="price-product">IDR 80.000,00</h4>
                                     </div>
                                 </div>
                             </div>

@@ -66,7 +66,7 @@ class Header extends React.Component {
                                 <li><a href="#"><i className="fab fa-twitter"></i> </a> </li>
                                 <li><a href="https://www.instagram.com/yukbersih/" target="_blank"><i className="fab fa-instagram"></i> </a> </li>
                             </ul>
-                            <p className="whitecolor">&copy; <span id="year"></span> Trax. Made With Love by ThemesIndustry</p>
+                            <p className="whitecolor">&copy; 2020 Cahaya Solusi Umat. All Right Reserved.</p>
                         </div>
                     </div>
                 </div>
