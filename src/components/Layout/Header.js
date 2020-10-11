@@ -7,7 +7,7 @@ class Header extends React.Component {
             <header className="site-header" id="header">
                 <nav className="navbar navbar-expand-lg transparent-bg static-nav">
                     <div className="container">
-                        <a className="navbar-brand center-brand" href="index.html">
+                        <a className="navbar-brand center-brand" href="/">
                             <img src="/assets/images/logo-white.png" alt="logo" className="logo-default" />
                             <img src="/assets/images/logo-black.png" alt="logo" className="logo-scrolled" />
                         </a>
